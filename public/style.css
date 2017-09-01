@@ -135,7 +135,7 @@ figure {
   margin: 10px auto;
   width: 95%;
   /*Got rid of float and added max-width along with margin to prevent background bleed that made it look off center*/
-  height: 300px;
+  height: 290px;
   cursor: pointer;
 }
 
